@@ -1,2 +1,4 @@
-# Get-Course
+# Get_Course
 for Beginners
+
+## Projects Notes
